@@ -1,5 +1,0 @@
-az_vm_name = "azwebvm01"
-az_resource_group_name = "azwebtest"
-az_region = "Central US"
-admin_username = "azadmin"
-admin_password = "$3cur3P@$$!"
